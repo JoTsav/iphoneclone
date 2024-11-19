@@ -1,4 +1,4 @@
-#Appple clone 
+**Appple clone 
 
 **Cloning the Repository**
 
